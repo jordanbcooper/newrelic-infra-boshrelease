@@ -1,0 +1,43 @@
+---
+packages:
+- name: newrelic-infra
+  version: f12b85e9099c7fabedc96bbbb69ff0b075fb6408
+  fingerprint: f12b85e9099c7fabedc96bbbb69ff0b075fb6408
+  sha1: dc2e6203c5fc7a21a3d1776c4e41c30a74b46c39
+  dependencies: []
+- name: newrelic-infra-rabbitmq
+  version: b89d062a5aa192b3fc03b40295a21bb27f882ecb
+  fingerprint: b89d062a5aa192b3fc03b40295a21bb27f882ecb
+  sha1: 0b62fa554e2c61f6361bd68bb2c109692e1346a2
+  dependencies: []
+- name: newrelic-infra-redis
+  version: 9b1b4d9d08c6ea78c4407b8d4917d57c859f6d64
+  fingerprint: 9b1b4d9d08c6ea78c4407b8d4917d57c859f6d64
+  sha1: d8f1c3fe68b8728d6743e106a46cc97ac2ea4bef
+  dependencies: []
+- name: newrelic-infra-vault
+  version: 80dfd54b941c5c64ed73365b798226673925ae6b
+  fingerprint: 80dfd54b941c5c64ed73365b798226673925ae6b
+  sha1: 2fa38ec23466747083a6b01c65ffdfafc6c236bc
+  dependencies: []
+jobs:
+- name: newrelic-infra
+  version: b6c9e41fa14727c443b046723e92dbe54cff2eac
+  fingerprint: b6c9e41fa14727c443b046723e92dbe54cff2eac
+  sha1: 2723bb5133f71ac397b36d284786960cca1e9c6b
+- name: newrelic-infra-rabbitmq
+  version: dc4a96a6f6f78e00958c6e9894f302326b900e81
+  fingerprint: dc4a96a6f6f78e00958c6e9894f302326b900e81
+  sha1: bdc70d468beeffebdc70a411dcc45e1a7d922166
+- name: newrelic-infra-redis
+  version: d816855076ac7dd2b67f1ef80a7fc1b38932439f
+  fingerprint: d816855076ac7dd2b67f1ef80a7fc1b38932439f
+  sha1: 49739016db56c5e2325119f9c7382216bb0e62e7
+- name: newrelic-infra-vault
+  version: 80140080d3f9b770198519b11044476f7b66c249
+  fingerprint: 80140080d3f9b770198519b11044476f7b66c249
+  sha1: 907eba013476919039c96534bf1c67f275e1c91f
+commit_hash: b23a5021
+uncommitted_changes: true
+name: newrelic-infra
+version: 1.1.0
