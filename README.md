@@ -35,7 +35,7 @@ Finally add the `newrelic-infra` job to your manifest:
 ## This release is packaged with custom integrations for Redis, RabbitMQ, or Vault bosh releases
 
 
-## [RabbitMQ](https://github.com/jordanbcooper/newrelic-integration-rabbitmq) - Haproxy Node
+## [RabbitMQ](https://github.com/newrelic/nri-rabbitmq) - Haproxy Node
 ```
 instance_groups:
 - azs:
