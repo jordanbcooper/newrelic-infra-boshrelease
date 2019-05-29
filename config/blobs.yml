@@ -1,7 +1,7 @@
 newrelic-infra-rabbitmq.tar.gz:
   size: 2565107
-  object_id: 3154df4a-bf56-4495-7ed6-303da5b6b662
-  sha: 029fb26a284f55c443112849523ff4501b07cb40
+  object_id: c2498289-e70f-49d0-7e95-eb6910b2fae7
+  sha: sha256:d9cb22e9462e2fe7d10fc5caaa9493490fca286251b669e92bb65e16e1c92c3d
 newrelic-infra-redis.tar.gz:
   size: 1783341
   object_id: 87b96821-aab8-4183-ac9a-74e9552d9c5b
