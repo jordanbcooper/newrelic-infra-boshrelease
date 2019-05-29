@@ -2,12 +2,8 @@
 
 ## Usage
 
-To use this bosh release, first upload it to your bosh:
+To use this bosh release, add the release block to your manifest.
 
-```
-cd newrelic-infra-boshrelease
-bosh -e env upload release releases/newrelic/newrelic-infra-<version>.yml
-```
 
 Then add the newrelic license (you can find this at https://rpm.newrelic.com/accounts/YOUR_ACCOUNT_NUMBER) to the properties section of your manifest file and the newrelic release to the releases section:
 
