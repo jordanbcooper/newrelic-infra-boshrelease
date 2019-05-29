@@ -60,7 +60,7 @@ properties:
     hostname: ...-rabbitmq
     license_key: ...
     rabbitmq:
-      env: name-of-rabbitmq-vm 
+      env: name-of-rabbitmq-deployment 
       hostname: 192.168.1.150 # ip address of rmq haproxy
       interval: 60 # newrelic infra polling interval
       password: rabbit # rabbitmq management creds
