@@ -2,7 +2,7 @@
 
 ## Usage
 
-To use this bosh release, add the release block to your manifest.
+To use this bosh release, add the release block from Releases to your manifest, or upload a version from the cloned repository.
 
 
 Then add the newrelic license (you can find this at https://rpm.newrelic.com/accounts/YOUR_ACCOUNT_NUMBER) to the properties section of your manifest file and the newrelic release to the releases section:
