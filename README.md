@@ -59,6 +59,12 @@ properties:
     deployment_tag: ...
     hostname: ...-rabbitmq
     license_key: ...
+    rabbitmq:
+      env: name-of-rabbitmq-vm 
+      hostname: 192.168.1.150 # ip address of rmq haproxy
+      interval: 60 # newrelic infra polling interval
+      password: rabbit # rabbitmq management creds
+      username: rabbit
 ```
 
 ## [Redis](https://docs.newrelic.com/docs/integrations/host-integrations/host-integrations-list/redis-monitoring-integration)
