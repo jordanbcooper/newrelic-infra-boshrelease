@@ -59,7 +59,7 @@ instance_groups:
 - ...
 properties:
   azs:
-  - LTE
+  - az1
   newrelic:
     deployment_tag: ...
     hostname: ...-rabbitmq
